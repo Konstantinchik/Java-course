@@ -1,0 +1,11 @@
+error.error = ОШИБКА
+error.size = разные размеры
+error.divByZero = Деление на 0
+error.create = Невозможно создать
+error.sum = Операция сложения
+error.div = Операция деления
+error.mul = Операция умножения
+error.sub = Операция вычитания
+error.impossible = невозможно
+error.and = и;
+var.someAbs = некоторая аннотация;

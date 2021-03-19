@@ -1,0 +1,10 @@
+welcome=Сардэчна запрашаем!
+impossible=немагчыма
+division.by.zero=дзяленне на нуль
+not.found=не знойдзены
+operation=аперацыя
+division=дзялення
+addition=падсумоўвання
+subtraction=аднімання
+multiplication=множання
+error=ПАМЫЛКА

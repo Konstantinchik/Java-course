@@ -1,0 +1,11 @@
+error.error = ПАМЫЛКА
+error.size = розныя памеры
+error.divByZero = Дзяленне на 0
+error.create = Немагчыма стварыць
+error.sum = Аперацыя сложэння
+error.div = Аперацыя дэлення
+error.mul = Аперацыя умножения
+error.sub = Аперацыя вычытання
+error.impossible = немагчыма
+error.and = і;
+var.someAbs = нейкі рэферат;

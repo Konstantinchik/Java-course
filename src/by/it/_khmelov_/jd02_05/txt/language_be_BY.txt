@@ -1,0 +1,4 @@
+messages.welcome=Прывітанне!
+messages.question=Як твае справы?
+user.firstname=Аляксандр
+user.lastname=Хмялёў

@@ -1,0 +1,11 @@
+welcome=Welcome!
+impossible=impossible
+division.by.zero=Division by zero
+not.found=not found
+operation=operation
+division=division
+addition=addition
+subtraction=subtraction
+multiplication=multiplication
+error=ERROR
+

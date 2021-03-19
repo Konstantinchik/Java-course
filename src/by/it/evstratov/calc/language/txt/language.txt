@@ -1,0 +1,11 @@
+error.error=ERROR
+error.size=different sizes
+error.divByZero=Division by 0
+error.create=Unable to create
+error.sum = Addition operation
+error.div = Division operation
+error.mul = Multiplication operation
+error.sub = Subtraction operation
+error.impossible=impossible
+error.and=and;
+var.someAbs=some abstract;

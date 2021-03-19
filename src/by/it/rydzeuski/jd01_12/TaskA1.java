@@ -1,0 +1,37 @@
+package by.it.rydzeuski.jd01_12;
+
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.List;
+import java.util.Random;
+
+public class TaskA1 {
+
+    private ArrayList<Integer> grades = new ArrayList<>();
+
+    public static void main(String[] args) {
+        Random random= new Random();
+        TaskA1 instanse = new TaskA1();
+        for (int i = 0; i < 40; i++) {
+            instanse.grades.add(1+random.nextInt(10));
+        }
+        System.out.println(instanse.grades);
+        instanse.clearBad(instanse.grades);
+        System.out.println(instanse.grades);
+    }
+
+
+    @SuppressWarnings("Java8CollectionRemoveIf")
+    void clearBad(List<Integer> grades) {
+
+        Iterator<Integer> iterator = grades.iterator();
+        while (iterator.hasNext()){
+            Integer value = iterator.next();
+            if (value<4){
+                iterator.remove();
+            }
+        }
+
+
+    }
+}

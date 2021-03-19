@@ -1,0 +1,10 @@
+welcome=Привет!
+impossible=невозможна
+division.by.zero=деление на ноль
+not.found=не найден
+operation=операция
+division=деления
+addition=суммирования
+subtraction=вычитания
+multiplication=умножения
+error=ОШИБКА

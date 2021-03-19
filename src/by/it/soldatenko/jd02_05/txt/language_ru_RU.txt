@@ -1,0 +1,4 @@
+messages.welcome=Привет!
+messages.question=Как твои дела?
+user.firstname=Иван
+user.lastname=Солдатенко

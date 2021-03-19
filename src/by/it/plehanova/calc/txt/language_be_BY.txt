@@ -1,0 +1,14 @@
+message.error=Памылка
+message.divbyzero=Дзяленне на 0
+message.operation=Аперацыя
+message.notfound=не знойдзена
+message.diflength=Розная даўжыня
+message.abstrclass=Гэта абстрактны клас
+message.var=Пераменная
+памылка
+
+аперацыя
+не знойдзена
+
+Гэта абстрактны клас
+пераменная

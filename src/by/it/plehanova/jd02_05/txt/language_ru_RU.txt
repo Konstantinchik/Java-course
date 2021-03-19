@@ -1,0 +1,4 @@
+message.hello=Здравствуйте
+message.question=Как ваши дела?
+user.firstname=Анастасия
+user.lastname=Плеханова
